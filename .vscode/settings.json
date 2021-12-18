@@ -1,3 +1,4 @@
 {
-  "python.pythonPath": "/Users/arielcheng/Documents/dev/projects/cubism/env/bin/python3"
+  "python.pythonPath": "/Users/arielcheng/Documents/dev/projects/cubism/env/bin/python3",
+  "search.useIgnoreFiles": false
 }
