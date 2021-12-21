@@ -7,9 +7,11 @@ html5lib==0.9999999
 importlib-metadata==4.9.0
 Markdown==3.3.6
 numpy==1.21.4
+Pillow==8.4.0
 protobuf==3.19.1
 six==1.16.0
 tensorboard==1.8.0
+tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl
 termcolor==1.1.0
 Werkzeug==2.0.2
 zipp==3.6.0
