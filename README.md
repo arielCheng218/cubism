@@ -1,2 +1,2 @@
 # cubism
-Generating art in the cubist style with GANs 
+Generating art in the cubist style with GANs.
